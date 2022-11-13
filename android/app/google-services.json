@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092578864258",
+    "project_id": "ajudasocial22-272fe",
+    "storage_bucket": "ajudasocial22-272fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092578864258:android:0c544633b5e0cab691989b",
+        "android_client_info": {
+          "package_name": "br.com.ajudasocial22.ajudasocial22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092578864258-4r5ltkdc1aop3nps7q2sggmn9mah9hum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9s-f8jAo5Hy0Q_-rp_YMl3bIv1F9XzGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092578864258-4r5ltkdc1aop3nps7q2sggmn9mah9hum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
